@@ -22,13 +22,8 @@ body{
     width: 100%;
 }
 
-#rock_roll :hover #red-tex
+#rock_roll :hover 
 {
  fill: rgb(144, 80, 255) ;
-    
-}
-
-#rock_roll{
-    fill: rgb(50, 47, 255);
     
 }
